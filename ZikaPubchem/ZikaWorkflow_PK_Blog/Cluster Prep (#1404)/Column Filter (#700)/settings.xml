@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="settings.xml">
+<entry key="node_file" type="xstring" value="settings.xml"/>
+<config key="flow_stack"/>
+<config key="internal_node_subsettings">
+<entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
+</config>
+<config key="model">
+<config key="column-filter">
+<entry key="filter-type" type="xstring" value="STANDARD"/>
+<config key="included_names">
+<entry key="array-size" type="xint" value="2"/>
+<entry key="0" type="xstring" value="CID"/>
+<entry key="1" type="xstring" value="Structure"/>
+</config>
+<config key="excluded_names">
+<entry key="array-size" type="xint" value="176"/>
+<entry key="0" type="xstring" value="Target Name"/>
+<entry key="1" type="xstring" value="Instance identifier: Reaxys Registry Number"/>
+<entry key="2" type="xstring" value="Markush"/>
+<entry key="3" type="xstring" value="Procedure%%00010Earliest Reg. Date"/>
+<entry key="4" type="xstring" value="SERIES"/>
+<entry key="5" type="xstring" value="A-ring"/>
+<entry key="6" type="xstring" value="C-ring"/>
+<entry key="7" type="xstring" value="TR FRET%%00010IC50(M)"/>
+<entry key="8" type="xstring" value="TR-FRET%%00010mean pIC50"/>
+<entry key="9" type="xstring" value="Cell Hu SY5Y%%00010weighted Mean%%00010pIC50"/>
+<entry key="10" type="xstring" value="Drop on%%00010FRET to SY5Y"/>
+<entry key="11" type="xstring" value="Primary neurons%%00010mean pIC50%%00010(mean of both assays)"/>
+<entry key="12" type="xstring" value="Drop on%%00010FRET to Prim neur"/>
+<entry key="13" type="xstring" value="Solubil %%00010Dried DMSO %%00010(µM)"/>
+<entry key="14" type="xstring" value="Caco-2%%00010pH 7.4 %%00010A to B Papp %%00010(1E-6.cm/s)"/>
+<entry key="15" type="xstring" value="Caco-2%%00010pH 7.4 %%00010A to B %%00010Recovery (%)"/>
+<entry key="16" type="xstring" value="Caco-2%%00010pH 7.4 %%00010Efflux Ratio"/>
+<entry key="17" type="xstring" value="MDR1%%00010PER 96well%%00010 Efflux%%00010 Ratio"/>
+<entry key="18" type="xstring" value="hERG%%00010IC50 (µM)"/>
+<entry key="19" type="xstring" value="hERG margin%%00010SY5Y"/>
+<entry key="20" type="xstring" value="log hERG margin%%00010Prim neuronal"/>
+<entry key="21" type="xstring" value="Rat Mic%%00010Mean%%00010EH%"/>
+<entry key="22" type="xstring" value="Hum Mic%%00010Mean%%00010EH%"/>
+<entry key="23" type="xstring" value="Rat Hep%%00010EH%"/>
+<entry key="24" type="xstring" value="Hum Hep%%00010EH%"/>
+<entry key="25" type="xstring" value="Dog%%00010Hep%%00010EH%"/>
+<entry key="26" type="xstring" value="CYP2D6%%00010MS or F"/>
+<entry key="27" type="xstring" value="CYP3A4%%00010MS or F"/>
+<entry key="28" type="xstring" value="CYP1A2%%00010MS or F"/>
+<entry key="29" type="xstring" value="CYP2C9%%00010MS or F"/>
+<entry key="30" type="xstring" value="CYP2C19%%00010Fluoroscence"/>
+<entry key="31" type="xstring" value="GSH Conjugates%%00010Rat Mics"/>
+<entry key="32" type="xstring" value="GSH Conjugates%%00010Hu Mics"/>
+<entry key="33" type="xstring" value="MetID supertest%%00010Södertälje%%00010Metabolism scheme"/>
+<entry key="34" type="xstring" value="Met ID supertest%%00010Södertälje%%00010Cross-species %%00010metabolism scheme"/>
+<entry key="35" type="xstring" value="E LogD"/>
+<entry key="36" type="xstring" value="Mean B1 pKa Molndal"/>
+<entry key="37" type="xstring" value="Mean B2 pKa"/>
+<entry key="38" type="xstring" value="PSA"/>
+<entry key="39" type="xstring" value="ClogP"/>
+<entry key="40" type="xstring" value="Molecule%%00010ACD LogD (7.4)"/>
+<entry key="41" type="xstring" value="Molecule%%00010AZ LogD (7.4)"/>
+<entry key="42" type="xstring" value="Molecule%%00010Formula Weight"/>
+<entry key="43" type="xstring" value="X-ray%%00010crystallography"/>
+<entry key="44" type="xstring" value="Human %%00010Fu %%%0001010 µM"/>
+<entry key="45" type="xstring" value="Human %%00010Fu 10 µM%%00010Recovery %"/>
+<entry key="46" type="xstring" value="Rat %%00010Fu %%%0001010 µM"/>
+<entry key="47" type="xstring" value="Rat %%00010Fu 10 µM%%00010Recovery %"/>
+<entry key="48" type="xstring" value="Mouse%%00010Fu %%%0001010 µM"/>
+<entry key="49" type="xstring" value="Mouse%%00010Fu 10 µM%%00010Recovery %"/>
+<entry key="50" type="xstring" value="GP%%00010Fu %%%0001010 µM"/>
+<entry key="51" type="xstring" value="GP%%00010Fu 10 µM%%00010Recovery %"/>
+<entry key="52" type="xstring" value="Rat PK%%00010CL %%00010(ml/min/kg)"/>
+<entry key="53" type="xstring" value="Rat PK%%00010Vss%%00010(l/kg)"/>
+<entry key="54" type="xstring" value="Rat PK%%00010iv t (h)"/>
+<entry key="55" type="xstring" value="Rat PK%%00010po t (h)"/>
+<entry key="56" type="xstring" value="Rat PK%%00010F (%)"/>
+<entry key="57" type="xstring" value="Mouse PK%%00010C57bl/6%%00010CL%%00010(ml/min/kg)"/>
+<entry key="58" type="xstring" value="Mouse PK%%00010C57bl/6%%00010Vss%%00010(l/kg)"/>
+<entry key="59" type="xstring" value="Mouse PK%%00010C57bl/6%%00010iv t (h)"/>
+<entry key="60" type="xstring" value="Mouse PK%%00010C57bl/6%%00010po t (h)"/>
+<entry key="61" type="xstring" value="Mouse PK%%00010C57bl/6%%00010F(%)"/>
+<entry key="62" type="xstring" value="Mu C57%%00010PO%%00010F (%)"/>
+<entry key="63" type="xstring" value="Nav1.5%%00010IC50 (µM)"/>
+<entry key="64" type="xstring" value="Opiat u%%00010Mean EC50 %%00010(µM)"/>
+<entry key="65" type="xstring" value="Opiat u%%00010Mean Top Effect (%)"/>
+<entry key="66" type="xstring" value="BSECR2 Hu%%00010Mean IC50 (µM)"/>
+<entry key="67" type="xstring" value="CatD%%00010Mean IC50 (µM)"/>
+<entry key="68" type="xstring" value="MAO-A hu %%00010Mean Inhib (%)"/>
+<entry key="69" type="xstring" value="nACh hu%%00010Mean Inhib (%)"/>
+<entry key="70" type="xstring" value="OP3%%00010Mean Inhib (%)"/>
+<entry key="71" type="xstring" value="eNOS%%00010Mean Inhib (%)"/>
+<entry key="72" type="xstring" value="ACHE hu%%00010Mean Inhib (%)"/>
+<entry key="73" type="xstring" value="COX1%%00010Mean Inhib (%)"/>
+<entry key="74" type="xstring" value="INSR hu%%00010Mean Inhib (%)"/>
+<entry key="75" type="xstring" value="adren2A%%00010Mean Inhib (%)"/>
+<entry key="76" type="xstring" value="argrenb1%%00010Mean Inhib (%)"/>
+<entry key="77" type="xstring" value="NET%%00010Mean Inhib (%)"/>
+<entry key="78" type="xstring" value="D2%%00010Mean Inhib (%)"/>
+<entry key="79" type="xstring" value="ERa%%00010Mean Inhib (%)"/>
+<entry key="80" type="xstring" value="M2%%00010Mean Inhib (%)"/>
+<entry key="81" type="xstring" value="fu,brain %%00010brain slice distribution%%00010Fraction (%)"/>
+<entry key="82" type="xstring" value="Brain slice distribution%%00010Vu,brain Vss (l/kg)"/>
+<entry key="83" type="xstring" value="Brain slice distribution%%00010Recovery (%)"/>
+<entry key="84" type="xstring" value="Brain/Plasma%%00010PO, Gender: F"/>
+<entry key="85" type="xstring" value="Brain/Plasma%%00010SC, Gender: F"/>
+<entry key="86" type="xstring" value="Brain/Plasma%%00010IV, Gender: F"/>
+<entry key="87" type="xstring" value="Biacore%%00010HSA%%00010Lower Range%%00010% free"/>
+<entry key="88" type="xstring" value="Biacore%%00010HSA%%00010Upper Range%%00010% free"/>
+<entry key="89" type="xstring" value="Biacore%%00010HSA%%00010n Results"/>
+<entry key="90" type="xstring" value="Biacore%%00010HSA%%00010Comments"/>
+<entry key="91" type="xstring" value="MPO%%00010total score"/>
+<entry key="92" type="xstring" value="Query: Target Name"/>
+<entry key="93" type="xstring" value="Instance identifier: Reaxys Bioactivity Datapoint ID"/>
+<entry key="94" type="xstring" value="Bioactivity Datapoint ID"/>
+<entry key="95" type="xstring" value="Reaxys Citation Number"/>
+<entry key="96" type="xstring" value="Substance Type"/>
+<entry key="97" type="xstring" value="Substance Reaxys Registry Number"/>
+<entry key="98" type="xstring" value="Substance Name"/>
+<entry key="99" type="xstring" value="Substance Route of Administration"/>
+<entry key="100" type="xstring" value="Substance Dosing Regimen"/>
+<entry key="101" type="xstring" value="Substance Dose"/>
+<entry key="102" type="xstring" value="Highest Clinical Phase"/>
+<entry key="103" type="xstring" value="Substrate Reaxys Regisry Number"/>
+<entry key="104" type="xstring" value="Substrate Name"/>
+<entry key="105" type="xstring" value="Substrate Dose"/>
+<entry key="106" type="xstring" value="Measurement Parameter"/>
+<entry key="107" type="xstring" value="Value Threshold"/>
+<entry key="108" type="xstring" value="Bioassay Name"/>
+<entry key="109" type="xstring" value="Bioassay Full Type"/>
+<entry key="110" type="xstring" value="Bioassay Category"/>
+<entry key="111" type="xstring" value="Animal Model"/>
+<entry key="112" type="xstring" value="Bioassay Pathology"/>
+<entry key="113" type="xstring" value="Putative Action on Target"/>
+<entry key="114" type="xstring" value="Bioassay Description"/>
+<entry key="115" type="xstring" value="Effect"/>
+<entry key="116" type="xstring" value="Biological Material Name"/>
+<entry key="117" type="xstring" value="Cells/Cell lines"/>
+<entry key="118" type="xstring" value="Cell Fraction"/>
+<entry key="119" type="xstring" value="Organs/Tissues"/>
+<entry key="120" type="xstring" value="Strain"/>
+<entry key="121" type="xstring" value="Population State"/>
+<entry key="122" type="xstring" value="Biological Species"/>
+<entry key="123" type="xstring" value="Target Subunit Names"/>
+<entry key="124" type="xstring" value="Target Abbreviation"/>
+<entry key="125" type="xstring" value="Target Synonyms"/>
+<entry key="126" type="xstring" value="Target Subunit Synonyms"/>
+<entry key="127" type="xstring" value="Target Species"/>
+<entry key="128" type="xstring" value="Target Nature"/>
+<entry key="129" type="xstring" value="Target Class"/>
+<entry key="130" type="xstring" value="Target Mutant/Chimera Details"/>
+<entry key="131" type="xstring" value="Target Uniprot"/>
+<entry key="132" type="xstring" value="Target PDB"/>
+<entry key="133" type="xstring" value="Target Role"/>
+<entry key="134" type="xstring" value="Transfection"/>
+<entry key="135" type="xstring" value="Species"/>
+<entry key="136" type="xstring" value="Qualitative Results"/>
+<entry key="137" type="xstring" value="Qualitative Value"/>
+<entry key="138" type="xstring" value="Quantitative Value"/>
+<entry key="139" type="xstring" value="Deviation"/>
+<entry key="140" type="xstring" value="Unit"/>
+<entry key="141" type="xstring" value="Measurement pX"/>
+<entry key="142" type="xstring" value="Statistical Significance (qualitative)"/>
+<entry key="143" type="xstring" value="Statistical Significance (p-value)"/>
+<entry key="144" type="xstring" value="Measurement count"/>
+<entry key="145" type="xstring" value="Update Date"/>
+<entry key="146" type="xstring" value="Entry Date"/>
+<entry key="147" type="xstring" value="Document Type"/>
+<entry key="148" type="xstring" value="Authors"/>
+<entry key="149" type="xstring" value="Patent Assignee"/>
+<entry key="150" type="xstring" value="Impact Factor"/>
+<entry key="151" type="xstring" value="Pages"/>
+<entry key="152" type="xstring" value="Patent Country Code"/>
+<entry key="153" type="xstring" value="Patent Number"/>
+<entry key="154" type="xstring" value="Patent Year"/>
+<entry key="155" type="xstring" value="Patent Status"/>
+<entry key="156" type="xstring" value="Patent Language Code"/>
+<entry key="157" type="xstring" value="CODEN"/>
+<entry key="158" type="xstring" value="Journal Title"/>
+<entry key="159" type="xstring" value="Journal Title (Short)"/>
+<entry key="160" type="xstring" value="Journal/Review Without CODEN"/>
+<entry key="161" type="xstring" value="ISBN"/>
+<entry key="162" type="xstring" value="Country Code"/>
+<entry key="163" type="xstring" value="Language Code"/>
+<entry key="164" type="xstring" value="Editor"/>
+<entry key="165" type="xstring" value="Publisher"/>
+<entry key="166" type="xstring" value="Location of Publisher"/>
+<entry key="167" type="xstring" value="(Series) Volume"/>
+<entry key="168" type="xstring" value="Number"/>
+<entry key="169" type="xstring" value="Publication Year"/>
+<entry key="170" type="xstring" value="Page"/>
+<entry key="171" type="xstring" value="Citation (unresolved)"/>
+<entry key="172" type="xstring" value="DOI"/>
+<entry key="173" type="xstring" value="Article Number"/>
+<entry key="174" type="xstring" value="ISSN"/>
+<entry key="175" type="xstring" value="Bioactivity Presence"/>
+</config>
+<entry key="enforce_option" type="xstring" value="EnforceExclusion"/>
+<config key="name_pattern">
+<entry key="pattern" type="xstring" value=""/>
+<entry key="type" type="xstring" value="Wildcard"/>
+<entry key="caseSensitive" type="xboolean" value="true"/>
+</config>
+<config key="datatype">
+<config key="typelist">
+<entry key="org.knime.core.data.BooleanValue" type="xboolean" value="false"/>
+<entry key="org.knime.core.data.date.DateAndTimeValue" type="xboolean" value="false"/>
+<entry key="org.knime.core.data.DoubleValue" type="xboolean" value="false"/>
+<entry key="org.knime.core.data.IntValue" type="xboolean" value="false"/>
+<entry key="org.knime.core.data.LongValue" type="xboolean" value="false"/>
+<entry key="org.knime.core.data.StringValue" type="xboolean" value="false"/>
+<entry key="org.knime.chem.types.SdfValue" type="xboolean" value="false"/>
+</config>
+</config>
+</config>
+</config>
+<entry key="customDescription" type="xstring" isnull="true" value=""/>
+<entry key="state" type="xstring" value="IDLE"/>
+<entry key="factory" type="xstring" value="org.knime.base.node.preproc.filter.column.DataColumnSpecFilterNodeFactory"/>
+<entry key="node-name" type="xstring" value="Column Filter"/>
+<entry key="node-bundle-name" type="xstring" value="KNIME Base Nodes"/>
+<entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.base"/>
+<entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
+<entry key="node-bundle-version" type="xstring" value="3.5.0.v201712011156"/>
+<entry key="node-feature-name" type="xstring" value="KNIME Core"/>
+<entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.base.feature.group"/>
+<entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
+<entry key="node-feature-version" type="xstring" value="3.5.1.v201712211547"/>
+<config key="factory_settings"/>
+<entry key="name" type="xstring" value="Column Filter"/>
+<entry key="hasContent" type="xboolean" value="false"/>
+<entry key="isInactive" type="xboolean" value="false"/>
+<config key="ports">
+<config key="port_1">
+<entry key="index" type="xint" value="1"/>
+<entry key="port_dir_location" type="xstring" isnull="true" value=""/>
+</config>
+</config>
+<config key="filestores">
+<entry key="file_store_location" type="xstring" isnull="true" value=""/>
+<entry key="file_store_id" type="xstring" isnull="true" value=""/>
+</config>
+</config>

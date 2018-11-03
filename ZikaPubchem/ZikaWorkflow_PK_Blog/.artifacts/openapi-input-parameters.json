@@ -1,0 +1,19 @@
+
+{
+    "type":"object",
+    "properties":{
+        "cluster_size-1404:1298":{
+            "type":"object",
+            "properties":{
+                "variable_value":{
+                    "type":"string",
+                    "default":"5"
+                }
+            },
+            "description":"Enter Description",
+            "example":{
+                "variable_value":"5"
+            }
+        }
+    }
+}
