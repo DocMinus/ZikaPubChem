@@ -1,15 +1,17 @@
 # ZikaPubChem
 Knime workflow using BindingDB IDs and API mining Pubchem.
-Example here is related to Zika.
-As described on this blog:
-Pharmakarma.org
+
+Example here is related to Zika, as described on the blog by Pharmakarma.org, see:
+
 http://www.pharmakarma.org/2018/02/05/part-3-what-disease-should-i-knime-workflows/
+
 Also presented at:
 https://www.slideshare.net/Haxel/icic-2017-freeware-and-public-databases-towards-a-wiki-drug-discovery
 
 Brought to Git as additional source.
 
 Compatibility:
+
 Written with/for: Knime 3.5.1
 Works with 3.6.x
 
